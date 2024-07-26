@@ -2,6 +2,11 @@ import React, { Component } from 'react';
 import axios from 'axios';
 import withRouter from './withRouter';
 
+// Articla details
+
+git remote set-url origin https://genroar:genroar@github.com/genroar/new-ny-times.git
+
+
 class ArticleDetail extends Component {
   constructor(props) {
     super(props);
